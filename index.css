@@ -24,10 +24,9 @@ img {
     font-family: Outfit;
     src: url(./Outfit-Regular.ttf);
 }
-h1{
+h2{
     font-family: Outfit;
     font-weight: 700;
-    font-size:15px;
     color:hsl(218, 44%, 22%);
 }
 p{
